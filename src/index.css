@@ -1,0 +1,16 @@
+.login-div{
+  background-color: white;
+    height: 370px;
+    margin-top: 20%;
+    position: relative;
+    width: 600px;
+    padding-left: 16px;
+    border-top: 2px solid #ccc;
+    border-left: 2px solid #ccc;
+    box-shadow: -4px -4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5PX;
+    /* border-top-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-bottom:white;
+    border-right: none; */
+}
